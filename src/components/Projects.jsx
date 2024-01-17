@@ -16,7 +16,6 @@ function Projects() {
         <ProjectItem img={ImgTwo} title='Game Development' />
         <ProjectItem img={ImgOne} title='First Website' />
       </div>
-      <img class="object-scale-down w-35 h-35" src="https://png.pngtree.com/png-clipart/20221223/original/pngtree-flat-under-construction-sign-background-design-png-image_8801136.png" alt="Italian Trulli"></img>
     </div>
   );
 }
