@@ -8,8 +8,10 @@ const ProjectItem = ({ img, title }) => {
         <h3 className='text-2xl font-bold text-white tracking-wider text-center'>
           {title}
         </h3>
-        <p className='pb-4 pt-2 text-white text-center'>HTML/CSS/Js/Firebase</p>
-        <p className='text-center p-3 rounded-lg bg-white text-gray-700 font-bold cursor-pointer text-lg transition ease-in-out hover:-translate-y-1 hover:scale-110'>More Info</p>
+        <p className='pb-4 pt-2 text-white text-center'></p>
+        <h4 className='flex flex-col items-center justify-center'>
+          <button className='text-center p-3 rounded-lg bg-white text-gray-700 font-bold cursor-pointer text-lg transition ease-in-out hover:-translate-y-1 hover:scale-110'>More Info</button>
+        </h4>
       </div>
     </div>
   )
