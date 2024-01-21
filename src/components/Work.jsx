@@ -14,7 +14,21 @@ const data = [
         title: "Tutor",
         duration: "1 Year",
         details:
-            "Provided unpaid acadcemic assistance for classmates and relatives in subjects like math, science, and computer science.",
+            "Provided unpaid acadcemic assistance for classmates, relatives, and friends in subjects like math, science, and computer science.",
+    },
+    {
+        year: 2023,
+        title: "Chik-Fil-A",
+        duration: "3 Months",
+        details:
+            "Worked in the kitchen as a summer job. I learned the ins and outs of the cook position and learned how to work efficiently with my coworkers.",
+    },
+    {
+        year: 2024 + " - Present",
+        title: "Full Time Student",
+        duration: "",
+        details:
+            "I am a full-time computer science student at Loyola University Maryland, aiming to broaden my knowledge in the field and establish valuable career connections. " 
     },
 ];
 const Work = () => {
