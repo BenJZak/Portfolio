@@ -2,7 +2,6 @@ import React from "react";
 import ProjectItem from "./ProjectItem";
 import ImgOne from "../assets/websiteImage.jpg";
 import ImgTwo from "../assets/GameDevProjBackground.jpg"
-import ImgThree from "../assets/machineLearningProjBack.jpg"
 import ImgFour from "../assets/hackathonBack.jpg"
 
 
@@ -17,8 +16,7 @@ function Projects() {
       <div className="grid sm:grid-cols-2 gap-12">
         <ProjectItem img={ImgTwo} title='Game Development' />
         <ProjectItem img={ImgOne} title='First Website' />
-        <ProjectItem img={ImgThree} title='OpenCV ~ Machine Learning' />
-        <ProjectItem img={ImgFour} title='Hackathons'/>
+        <ProjectItem img={ImgFour} title='Hackathons' />
       </div>
     </div>
   );
