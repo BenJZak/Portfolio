@@ -30,6 +30,13 @@ const data = [
         details:
             "I am a full-time computer science student at Loyola University Maryland, aiming to broaden my knowledge in the field and establish valuable career connections. " 
     },
+    {
+        year: 2024 + " - Present",
+        title: "AI Engineer",
+        duration: "",
+        details:
+            "Tasked with training LLM's by writing and analyzing complex code, primarily in the Python and Javascript languages. I would initialize a prompt along with providing code, and ask the LLM to perform some function. The model would then return two responses, and I would pick the higher-quality response." 
+    },
 ];
 const Work = () => {
     return (
