@@ -35,7 +35,7 @@ const data = [
         title: "AI Engineer",
         duration: "",
         details:
-            "Tasked with training LLM's by writing and analyzing complex code, primarily in the Python and Javascript languages. I would initialize a prompt along with providing code, and ask the LLM to perform some function. The model would then return two responses, and I would pick the higher-quality response." 
+            "Tasked with training LLM's by writing and analyzing complex code, primarily in the Python and Javascript languages. I would initialize a prompt along with providing code, and ask the LLM to perform some function. The model would then return two responses, and I would pick the higher-quality response. This is my first highly paid position in the software development field." 
     },
 ];
 const Work = () => {
