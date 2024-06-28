@@ -11,7 +11,6 @@ function App() {
   
   return (
     <div>
-      <Sidenav />
       <Main />
       <Work />
       <Projects />
