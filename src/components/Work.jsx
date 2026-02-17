@@ -37,6 +37,13 @@ const data = [
         details:
             "Tasked with training LLM's by writing and analyzing complex code primarily in the Python, Java, and Javascript languages. I initialize a prompt along with providing code, and ask the LLM to perform some function. The model would then return two responses, and I would pick the higher-quality response. In most cases, I would have to rewrite the AI generated response with corrected code." 
     },
+    {
+        year: 2025 + " - Present",
+        title: "Line Cook",
+        duration: "",
+        details:
+            "Learned the fundamentals of cooking in high end restaurants. Gained experience at Redfire Grill |Hockessin| and American Alehouse |State College|." 
+    },
 ];
 const Work = () => {
     return (
